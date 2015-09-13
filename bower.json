@@ -1,0 +1,44 @@
+{
+  "name": "Ivy Exec Bower File",
+  "version": "1.0",
+  "authors": [
+    "Marko Manojlovic <marko@ivyexec.com>"
+  ],
+  "description": "Main Bower file",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "Ivy",
+    "Exec",
+    "FE",
+    "package",
+    "manager"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.ivyexec.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AddToAny": "https://github.com/synchromatik/addtoany.git",
+    "bootstrap-sass": "~3.3.5",
+    "bootstrap-sortable": "~1.11.2",
+    "Chart.js": "~1.0.2",
+    "font-awesome-sass": "https://github.com/FortAwesome/font-awesome-sass.git#~4.3.1",
+    "jquery.tablesorter": "~2.23.3",
+    "scrollToggle": "https://github.com/shorttompkins/scrollToggle.git",
+    "select2": "~4.0.0",
+    "select2-bootstrap-theme": "~0.1.0-beta.4",
+    "velocity": "~1.2.2"
+  },
+  "devDependencies": {}
+}
