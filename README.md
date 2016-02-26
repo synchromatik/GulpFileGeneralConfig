@@ -12,6 +12,12 @@ Features:
 
 ### Changelog:
 
+#### V.1.5
+- Moved bundle configs to appropriate dirs
+#### V.1.4
+- Added gulp-cached/gulp-newer for js and image files (only new files will be processed, not all)
+- 1.4b: moved from reload to injecting for css
+
 #### V.1.3
 - Fixed bug with image optimization
 #### V.1.2
