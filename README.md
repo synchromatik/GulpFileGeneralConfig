@@ -5,15 +5,15 @@ Gulp config for everyday usage.
 
 Features:
 
--) SCSS to CSS processing with mirror dir copy "assets/src" to "assets/build"
+- SCSS to CSS processing with mirror dir copy "assets/src" to "assets/build"
 
--) JS Linting
+- JS Linting
 
--) Image (PNG, JPEG, SVG) Optimization
+- Image (PNG, JPEG, SVG) Optimization
 
--) BrowserSync
+- BrowserSync
 
--) JS/CSS Minification/ugliify with .min added to file names
+- JS/CSS Minification/ugliify with .min added to file names
 
 
 ### Changelog:
