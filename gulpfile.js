@@ -1,5 +1,3 @@
-// Current version: 1.5 (incremental build, if you modify this file, please update version and add to list whats added)
-// Confluence page: https://ivyexec.atlassian.net/wiki/display/IE/Front+End+Conventions+and+rules+page
 
 // TODO: Fix bug with sourcemaps path
 // TODO: Add failback/info for files that are not found by build process
