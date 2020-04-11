@@ -1,4 +1,3 @@
-// Author: Marko Manojlovic marko@ivyexec.com
 // Current version: 1.5 (incremental build, if you modify this file, please update version and add to list whats added)
 // Confluence page: https://ivyexec.atlassian.net/wiki/display/IE/Front+End+Conventions+and+rules+page
 
